@@ -1,3 +1,9 @@
+
+## Translator Web Application
+
+![image](https://user-images.githubusercontent.com/87747635/213356548-95fcdc77-711d-49f7-bd39-702ec40b0552.png)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213357599-941bc36a-11ad-462a-9d03-857c3dbd5bd6.gif)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
