@@ -9,10 +9,8 @@
 - Google Cloud Translator
 
 ## Getting Started
-<p align="center">
-    <img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213357599-941bc36a-11ad-462a-9d03-857c3dbd5bd6.gif)">
-p>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213357599-941bc36a-11ad-462a-9d03-857c3dbd5bd6.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213357599-941bc36a-11ad-462a-9d03-857c3dbd5bd6.gif){:.centered}
 
 First, run the development server:
 
