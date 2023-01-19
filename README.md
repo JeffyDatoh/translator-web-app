@@ -1,7 +1,7 @@
 
 ## Translator Web Application
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213362140-255d7e68-f69f-48cd-96e7-6dabed601acc.gif)
 
-![image](https://user-images.githubusercontent.com/87747635/213356548-95fcdc77-711d-49f7-bd39-702ec40b0552.png)
 ### Technology stack
 - Next.js
 - MUI
@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213362140-255d7e68-f69f-48cd-96e7-6dabed601acc.gif)
+
 
 First, run the development server:
 
