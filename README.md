@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213360102-93ddb17b-036e-4ae4-aa91-08632c8008a3.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87747635/213362140-255d7e68-f69f-48cd-96e7-6dabed601acc.gif)
 
 First, run the development server:
 
